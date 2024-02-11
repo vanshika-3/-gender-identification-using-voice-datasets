@@ -5,7 +5,7 @@ To perform binary classification (the algorithm or model is trained on a labeled
 ### Datasets
 https://www.kaggle.com/datasets/primaryobjects/voicegender
 ## Conclusion
--Comparing the two models, Model 1 achieved higher accuracy (98.11%) and a slightly higher AUC (0.9972) compared to Model 2, which had an accuracy of 95.58% and an AUC of 0.9926. 
--This indicates that Model 1 performed better overall in terms of accuracy and discrimination ability. However, it's important to note that the choice of the best model depends on the specific requirements of the task and the trade-off between different evaluation metrics. While Model 1 had higher accuracy and AUC, Model 2, being a 2D CNN, might provide additional advantages in terms of interpretability and capturing spatial patterns in the data.
+Comparing the two models, Model 1 achieved higher accuracy (98.11%) and a slightly higher AUC (0.9972) compared to Model 2, which had an accuracy of 95.58% and an AUC of 0.9926. 
+This indicates that Model 1 performed better overall in terms of accuracy and discrimination ability. However, it's important to note that the choice of the best model depends on the specific requirements of the task and the trade-off between different evaluation metrics. While Model 1 had higher accuracy and AUC, Model 2, being a 2D CNN, might provide additional advantages in terms of interpretability and capturing spatial patterns in the data.
 
 
